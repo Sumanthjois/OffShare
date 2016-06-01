@@ -8,11 +8,11 @@ A desktop app which helps to share any type of data
   We will be using java and java only. To specify we will be using JAVA FX which is great for building desktop app with ease.
   
 # What and all are the features of this app?
-  -> Send Text meassages or any type of file of any size (same network) with very minimum amount of time(can share data with computers connected in different network but cannot gurranty the ammount of time that will consumed).
+   Send Text meassages or any type of file of any size (same network) with very minimum amount of time(can share data with computers connected in different network but cannot gurranty the ammount of time that will consumed).
   
-  ->Mainly this will be used in a Office environment.
+   Mainly this will be used in a Office environment.
   
-  ->data wWill be transfered by using peer-to-peer communication.
+   data wWill be transfered by using peer-to-peer communication.
   
   
   
